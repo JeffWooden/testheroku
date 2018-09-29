@@ -1,0 +1,14 @@
+{
+  "name": "herokutest",
+  "version": "1.0.0",
+  "description": "Bot pour tester l'hébergement sur Heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Test rempli avec succès"
+  },
+  "author": "JeffWooden",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
